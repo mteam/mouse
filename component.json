@@ -1,0 +1,12 @@
+{
+  "name": "mouse",
+  "repo": "mteam/mouse",
+  "version": "0.1.0",
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "mteam/events": "*",
+    "component/bind": "*"
+  }
+}
