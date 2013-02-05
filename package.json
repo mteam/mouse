@@ -1,0 +1,9 @@
+{
+  "name": "mouse",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "mteam-events": "git://github.com/mteam/events",
+    "bind": "git://github.com/component/bind"
+  }
+}
